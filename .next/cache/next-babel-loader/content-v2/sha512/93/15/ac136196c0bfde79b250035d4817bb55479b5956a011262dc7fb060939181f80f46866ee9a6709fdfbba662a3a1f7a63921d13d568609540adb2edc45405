@@ -1,0 +1,1 @@
+{"ast":null,"code":"export const apiUrl = \"https://frontend-test-api.vercel.app/api/\";","map":{"version":3,"sources":["/Users/alejaocampo/Downloads/package/commons/api.js"],"names":["apiUrl"],"mappings":"AAAA,OAAO,MAAMA,MAAM,GAAG,2CAAf","sourcesContent":["export const apiUrl = \"https://frontend-test-api.vercel.app/api/\";\n"]},"metadata":{},"sourceType":"module"}
